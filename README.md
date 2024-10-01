@@ -1,2 +1,1 @@
-# lab1
-cse29 lab 1
+hello world
